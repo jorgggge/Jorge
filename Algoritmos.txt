@@ -1,1 +1,8 @@
 https://users.cg.tuwien.ac.at/zsolnai/gfx/knapsack_genetic/
+http://www.cs.rpi.edu/academics/courses/spring12/proglang/pa3/pa3.html
+https://github.com/shah314/gamultiknapsack
+http://symbolaris.com/orbital/Orbital-doc/examples/Knapsack/
+
+
+Problema de la mochila en diferentes lenguajes de programacion 
+http://rosettacode.org/wiki/Knapsack_problem/0-1
